@@ -1,0 +1,7 @@
+Title: Chain-Gang All-Stars
+Author: Nana Kwame Adjei-Brenyah (Goodreads Author)
+Avg Rating: 4.14 avg rating — 18,117 ratings
+Genres: 
+Tokens: ['Chain', '-', 'Gang', 'All', '-', 'Stars']
+Lemmas: ['chain', '-', 'Gang', 'All', '-', 'star']
+Parts of Speech: ['NOUN', 'PUNCT', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']

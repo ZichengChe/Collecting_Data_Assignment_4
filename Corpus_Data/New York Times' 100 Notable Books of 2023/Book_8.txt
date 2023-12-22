@@ -1,0 +1,7 @@
+Title: Ordinary Notes
+Author: Christina Sharpe (Goodreads Author)
+Avg Rating: 4.62 avg rating — 526 ratings
+Genres: 
+Tokens: ['Ordinary', 'Notes']
+Lemmas: ['ordinary', 'note']
+Parts of Speech: ['ADJ', 'NOUN']

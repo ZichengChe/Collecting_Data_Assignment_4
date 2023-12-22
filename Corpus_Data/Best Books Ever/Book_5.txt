@@ -1,0 +1,7 @@
+Title: The Book Thief
+Author: Markus Zusak (Goodreads Author)
+Avg Rating: 4.39 avg rating — 2,470,085 ratings
+Genres: 
+Tokens: ['The', 'Book', 'Thief']
+Lemmas: ['the', 'Book', 'Thief']
+Parts of Speech: ['DET', 'PROPN', 'PROPN']

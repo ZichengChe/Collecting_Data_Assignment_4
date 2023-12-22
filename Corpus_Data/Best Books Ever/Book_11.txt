@@ -1,0 +1,7 @@
+Title: The Picture of Dorian Gray
+Author: Oscar Wilde
+Avg Rating: 4.12 avg rating — 1,466,520 ratings
+Genres: 
+Tokens: ['The', 'Picture', 'of', 'Dorian', 'Gray']
+Lemmas: ['the', 'Picture', 'of', 'Dorian', 'Gray']
+Parts of Speech: ['DET', 'PROPN', 'ADP', 'PROPN', 'PROPN']

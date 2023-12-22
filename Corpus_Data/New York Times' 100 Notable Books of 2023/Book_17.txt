@@ -1,0 +1,7 @@
+Title: Eastbound
+Author: Maylis de Kerangal
+Avg Rating: 3.99 avg rating — 1,569 ratings
+Genres: 
+Tokens: ['Eastbound']
+Lemmas: ['eastbound']
+Parts of Speech: ['NOUN']

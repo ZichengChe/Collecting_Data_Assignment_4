@@ -1,0 +1,7 @@
+Title: A Guest in the House
+Author: Emily Carroll
+Avg Rating: 4.10 avg rating — 2,179 ratings
+Genres: 
+Tokens: ['A', 'Guest', 'in', 'the', 'House']
+Lemmas: ['a', 'Guest', 'in', 'the', 'House']
+Parts of Speech: ['DET', 'PROPN', 'ADP', 'DET', 'PROPN']

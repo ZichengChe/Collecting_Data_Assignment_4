@@ -1,0 +1,7 @@
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Avg Rating: 3.93 avg rating — 5,045,096 ratings
+Genres: 
+Tokens: ['The', 'Great', 'Gatsby']
+Lemmas: ['the', 'Great', 'Gatsby']
+Parts of Speech: ['DET', 'PROPN', 'PROPN']

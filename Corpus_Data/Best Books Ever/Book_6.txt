@@ -1,0 +1,7 @@
+Title: Twilight (The Twilight Saga, #1)
+Author: Stephenie Meyer
+Avg Rating: 3.65 avg rating — 6,367,853 ratings
+Genres: 
+Tokens: ['Twilight', '(', 'The', 'Twilight', 'Saga', ',', '#', '1', ')']
+Lemmas: ['twilight', '(', 'the', 'Twilight', 'Saga', ',', '#', '1', ')']
+Parts of Speech: ['NOUN', 'PUNCT', 'DET', 'PROPN', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'PUNCT']

@@ -1,0 +1,7 @@
+Title: Pride and Prejudice
+Author: Jane Austen
+Avg Rating: 4.28 avg rating — 4,122,667 ratings
+Genres: 
+Tokens: ['Pride', 'and', 'Prejudice']
+Lemmas: ['Pride', 'and', 'Prejudice']
+Parts of Speech: ['PROPN', 'CCONJ', 'PROPN']

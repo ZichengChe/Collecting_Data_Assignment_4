@@ -1,0 +1,7 @@
+Title: The Little Prince
+Author: Antoine de Saint-Exupéry
+Avg Rating: 4.32 avg rating — 2,027,613 ratings
+Genres: 
+Tokens: ['The', 'Little', 'Prince']
+Lemmas: ['the', 'Little', 'Prince']
+Parts of Speech: ['DET', 'PROPN', 'PROPN']

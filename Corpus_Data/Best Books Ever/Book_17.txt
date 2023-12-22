@@ -1,0 +1,7 @@
+Title: Harry Potter and the Sorcerer's Stone (Harry Potter, #1)
+Author: J.K. Rowling
+Avg Rating: 4.47 avg rating — 9,681,565 ratings
+Genres: 
+Tokens: ['Harry', 'Potter', 'and', 'the', 'Sorcerer', "'s", 'Stone', '(', 'Harry', 'Potter', ',', '#', '1', ')']
+Lemmas: ['Harry', 'Potter', 'and', 'the', 'Sorcerer', "'s", 'Stone', '(', 'Harry', 'Potter', ',', '#', '1', ')']
+Parts of Speech: ['PROPN', 'PROPN', 'CCONJ', 'DET', 'PROPN', 'PART', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'PUNCT']

@@ -1,0 +1,7 @@
+Title: The Bee Sting
+Author: Paul Murray
+Avg Rating: 4.07 avg rating — 8,027 ratings
+Genres: 
+Tokens: ['The', 'Bee', 'Sting']
+Lemmas: ['the', 'Bee', 'Sting']
+Parts of Speech: ['DET', 'PROPN', 'PROPN']

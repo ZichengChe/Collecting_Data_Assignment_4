@@ -1,0 +1,7 @@
+Title: Yellowface
+Author: R.F. Kuang (Goodreads Author)
+Avg Rating: 3.87 avg rating — 242,064 ratings
+Genres: 
+Tokens: ['Yellowface']
+Lemmas: ['yellowface']
+Parts of Speech: ['NOUN']

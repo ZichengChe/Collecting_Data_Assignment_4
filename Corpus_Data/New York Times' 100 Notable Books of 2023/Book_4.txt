@@ -1,0 +1,7 @@
+Title: King: A Life
+Author: Jonathan Eig (Goodreads Author)
+Avg Rating: 4.68 avg rating — 2,990 ratings
+Genres: 
+Tokens: ['King', ':', 'A', 'Life']
+Lemmas: ['king', ':', 'a', 'life']
+Parts of Speech: ['NOUN', 'PUNCT', 'DET', 'NOUN']

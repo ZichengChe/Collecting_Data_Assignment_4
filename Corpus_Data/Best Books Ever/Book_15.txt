@@ -1,0 +1,7 @@
+Title: The Perks of Being a Wallflower
+Author: Stephen Chbosky
+Avg Rating: 4.23 avg rating — 1,737,166 ratings
+Genres: 
+Tokens: ['The', 'Perks', 'of', 'Being', 'a', 'Wallflower']
+Lemmas: ['the', 'Perks', 'of', 'be', 'a', 'wallflower']
+Parts of Speech: ['DET', 'PROPN', 'ADP', 'AUX', 'DET', 'NOUN']

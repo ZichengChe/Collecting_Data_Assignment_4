@@ -1,0 +1,7 @@
+Title: The Chronicles of Narnia (The Chronicles of Narnia, #1-7)
+Author: C.S. Lewis
+Avg Rating: 4.27 avg rating — 636,998 ratings
+Genres: 
+Tokens: ['The', 'Chronicles', 'of', 'Narnia', '(', 'The', 'Chronicles', 'of', 'Narnia', ',', '#', '1', '-', '7', ')']
+Lemmas: ['the', 'Chronicles', 'of', 'Narnia', '(', 'the', 'Chronicles', 'of', 'Narnia', ',', '#', '1', '-', '7', ')']
+Parts of Speech: ['DET', 'PROPN', 'ADP', 'PROPN', 'PUNCT', 'DET', 'PROPN', 'ADP', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'SYM', 'NUM', 'PUNCT']

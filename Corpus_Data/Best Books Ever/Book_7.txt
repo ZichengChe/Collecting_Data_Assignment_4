@@ -1,0 +1,7 @@
+Title: Animal Farm
+Author: George Orwell
+Avg Rating: 3.98 avg rating — 3,745,163 ratings
+Genres: 
+Tokens: ['Animal', 'Farm']
+Lemmas: ['Animal', 'Farm']
+Parts of Speech: ['PROPN', 'PROPN']

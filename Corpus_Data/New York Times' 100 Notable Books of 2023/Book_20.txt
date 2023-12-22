@@ -1,0 +1,7 @@
+Title: The Iliad
+Author: Homer
+Avg Rating: 3.90 avg rating — 440,401 ratings
+Genres: 
+Tokens: ['The', 'Iliad']
+Lemmas: ['the', 'Iliad']
+Parts of Speech: ['DET', 'PROPN']

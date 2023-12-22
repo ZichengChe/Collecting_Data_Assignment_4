@@ -1,0 +1,7 @@
+Title: The Heaven & Earth Grocery Store
+Author: James   McBride (Goodreads Author)
+Avg Rating: 4.24 avg rating — 36,552 ratings
+Genres: 
+Tokens: ['The', 'Heaven', '&', 'Earth', 'Grocery', 'Store']
+Lemmas: ['the', 'Heaven', '&', 'Earth', 'Grocery', 'Store']
+Parts of Speech: ['DET', 'PROPN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN']

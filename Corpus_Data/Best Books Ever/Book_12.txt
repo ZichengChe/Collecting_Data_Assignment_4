@@ -1,0 +1,7 @@
+Title: Gone with the Wind
+Author: Margaret Mitchell
+Avg Rating: 4.31 avg rating — 1,195,972 ratings
+Genres: 
+Tokens: ['Gone', 'with', 'the', 'Wind']
+Lemmas: ['go', 'with', 'the', 'wind']
+Parts of Speech: ['VERB', 'ADP', 'DET', 'NOUN']

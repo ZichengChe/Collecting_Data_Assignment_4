@@ -1,0 +1,7 @@
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Avg Rating: 4.26 avg rating — 5,913,829 ratings
+Genres: 
+Tokens: ['To', 'Kill', 'a', 'Mockingbird']
+Lemmas: ['to', 'kill', 'a', 'Mockingbird']
+Parts of Speech: ['PART', 'VERB', 'DET', 'PROPN']

@@ -1,0 +1,7 @@
+Title: All the Sinners Bleed
+Author: S.A. Cosby (Goodreads Author)
+Avg Rating: 4.29 avg rating — 30,939 ratings
+Genres: 
+Tokens: ['All', 'the', 'Sinners', 'Bleed']
+Lemmas: ['all', 'the', 'Sinners', 'Bleed']
+Parts of Speech: ['DET', 'DET', 'PROPN', 'PROPN']

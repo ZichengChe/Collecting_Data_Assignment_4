@@ -1,0 +1,7 @@
+Title: Kantika
+Author: Elizabeth Graver (Goodreads Author)
+Avg Rating: 4.12 avg rating — 1,497 ratings
+Genres: 
+Tokens: ['Kantika']
+Lemmas: ['Kantika']
+Parts of Speech: ['NOUN']

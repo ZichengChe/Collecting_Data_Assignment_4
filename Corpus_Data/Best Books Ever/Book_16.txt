@@ -1,0 +1,7 @@
+Title: Jane Eyre
+Author: Charlotte Brontë
+Avg Rating: 4.15 avg rating — 2,045,477 ratings
+Genres: 
+Tokens: ['Jane', 'Eyre']
+Lemmas: ['Jane', 'Eyre']
+Parts of Speech: ['PROPN', 'PROPN']

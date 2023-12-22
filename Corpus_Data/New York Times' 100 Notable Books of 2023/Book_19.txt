@@ -1,0 +1,7 @@
+Title: Hello Beautiful
+Author: Ann Napolitano (Goodreads Author)
+Avg Rating: 4.20 avg rating — 195,485 ratings
+Genres: 
+Tokens: ['Hello', 'Beautiful']
+Lemmas: ['hello', 'beautiful']
+Parts of Speech: ['INTJ', 'ADJ']

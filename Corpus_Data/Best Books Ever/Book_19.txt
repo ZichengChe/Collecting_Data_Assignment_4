@@ -1,0 +1,7 @@
+Title: The Lightning Thief (Percy Jackson and the Olympians, #1)
+Author: Rick Riordan (Goodreads Author)
+Avg Rating: 4.30 avg rating — 2,840,873 ratings
+Genres: 
+Tokens: ['The', 'Lightning', 'Thief', '(', 'Percy', 'Jackson', 'and', 'the', 'Olympians', ',', '#', '1', ')']
+Lemmas: ['the', 'Lightning', 'Thief', '(', 'Percy', 'Jackson', 'and', 'the', 'Olympians', ',', '#', '1', ')']
+Parts of Speech: ['DET', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'CCONJ', 'DET', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'PUNCT']

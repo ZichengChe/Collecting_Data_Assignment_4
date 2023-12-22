@@ -1,0 +1,7 @@
+Title: Harry Potter and the Order of the Phoenix (Harry Potter, #5)
+Author: J.K. Rowling
+Avg Rating: 4.50 avg rating — 3,280,787 ratings
+Genres: 
+Tokens: ['Harry', 'Potter', 'and', 'the', 'Order', 'of', 'the', 'Phoenix', '(', 'Harry', 'Potter', ',', '#', '5', ')']
+Lemmas: ['Harry', 'Potter', 'and', 'the', 'order', 'of', 'the', 'Phoenix', '(', 'Harry', 'Potter', ',', '#', '5', ')']
+Parts of Speech: ['PROPN', 'PROPN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'PROPN', 'PUNCT', 'PROPN', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'PUNCT']

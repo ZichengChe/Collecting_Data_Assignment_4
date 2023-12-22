@@ -1,0 +1,7 @@
+Title: The Covenant of Water
+Author: Abraham   Verghese (Goodreads Author)
+Avg Rating: 4.50 avg rating — 94,488 ratings
+Genres: 
+Tokens: ['The', 'Covenant', 'of', 'Water']
+Lemmas: ['the', 'Covenant', 'of', 'Water']
+Parts of Speech: ['DET', 'PROPN', 'ADP', 'PROPN']

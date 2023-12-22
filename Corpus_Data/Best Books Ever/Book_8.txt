@@ -1,0 +1,7 @@
+Title: J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
+Author: J.R.R. Tolkien
+Avg Rating: 4.61 avg rating — 131,136 ratings
+Genres: 
+Tokens: ['J.R.R.', 'Tolkien', '4', '-', 'Book', 'Boxed', 'Set', ':', 'The', 'Hobbit', 'and', 'The', 'Lord', 'of', 'the', 'Rings']
+Lemmas: ['J.R.R.', 'Tolkien', '4', '-', 'book', 'Boxed', 'Set', ':', 'the', 'Hobbit', 'and', 'the', 'Lord', 'of', 'the', 'Rings']
+Parts of Speech: ['PROPN', 'PROPN', 'NUM', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'PUNCT', 'DET', 'PROPN', 'CCONJ', 'DET', 'PROPN', 'ADP', 'DET', 'PROPN']

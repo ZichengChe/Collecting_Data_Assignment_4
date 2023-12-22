@@ -1,0 +1,7 @@
+Title: The Giving Tree
+Author: Shel Silverstein
+Avg Rating: 4.38 avg rating — 1,095,890 ratings
+Genres: 
+Tokens: ['The', 'Giving', 'Tree']
+Lemmas: ['the', 'Giving', 'Tree']
+Parts of Speech: ['DET', 'PROPN', 'PROPN']

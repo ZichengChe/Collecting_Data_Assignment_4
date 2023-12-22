@@ -1,0 +1,7 @@
+Title: Birnam Wood
+Author: Eleanor Catton
+Avg Rating: 3.84 avg rating — 20,943 ratings
+Genres: 
+Tokens: ['Birnam', 'Wood']
+Lemmas: ['Birnam', 'Wood']
+Parts of Speech: ['PROPN', 'PROPN']

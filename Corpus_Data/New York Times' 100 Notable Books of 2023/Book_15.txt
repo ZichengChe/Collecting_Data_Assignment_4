@@ -1,0 +1,7 @@
+Title: From From: Poems
+Author: Monica Youn
+Avg Rating: 4.26 avg rating — 126 ratings
+Genres: 
+Tokens: ['From', 'From', ':', 'Poems']
+Lemmas: ['from', 'from', ':', 'poem']
+Parts of Speech: ['ADP', 'ADP', 'PUNCT', 'NOUN']

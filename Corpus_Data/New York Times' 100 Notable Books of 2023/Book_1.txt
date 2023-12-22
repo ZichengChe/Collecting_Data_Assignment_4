@@ -1,0 +1,7 @@
+Title: Biography of X
+Author: Catherine Lacey (Goodreads Author)
+Avg Rating: 3.94 avg rating — 4,755 ratings
+Genres: 
+Tokens: ['Biography', 'of', 'X']
+Lemmas: ['biography', 'of', 'x']
+Parts of Speech: ['NOUN', 'ADP', 'NOUN']

@@ -1,0 +1,7 @@
+Title: The Deluge
+Author: Stephen Markley (Goodreads Author)
+Avg Rating: 4.20 avg rating — 2,544 ratings
+Genres: 
+Tokens: ['The', 'Deluge']
+Lemmas: ['the', 'Deluge']
+Parts of Speech: ['DET', 'PROPN']

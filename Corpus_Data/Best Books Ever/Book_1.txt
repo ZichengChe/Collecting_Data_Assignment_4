@@ -1,0 +1,7 @@
+Title: The Hunger Games (The Hunger Games, #1)
+Author: Suzanne Collins
+Avg Rating: 4.33 avg rating — 8,322,510 ratings
+Genres: 
+Tokens: ['The', 'Hunger', 'Games', '(', 'The', 'Hunger', 'Games', ',', '#', '1', ')']
+Lemmas: ['the', 'Hunger', 'Games', '(', 'the', 'Hunger', 'Games', ',', '#', '1', ')']
+Parts of Speech: ['DET', 'PROPN', 'PROPN', 'PUNCT', 'DET', 'PROPN', 'PROPN', 'PUNCT', 'SYM', 'NUM', 'PUNCT']

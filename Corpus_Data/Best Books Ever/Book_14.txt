@@ -1,0 +1,7 @@
+Title: Wuthering Heights
+Author: Emily Brontë
+Avg Rating: 3.89 avg rating — 1,750,998 ratings
+Genres: 
+Tokens: ['Wuthering', 'Heights']
+Lemmas: ['wuthere', 'height']
+Parts of Speech: ['VERB', 'NOUN']

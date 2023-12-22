@@ -1,0 +1,7 @@
+Title: Tom Lake
+Author: Ann Patchett
+Avg Rating: 4.14 avg rating — 121,734 ratings
+Genres: 
+Tokens: ['Tom', 'Lake']
+Lemmas: ['Tom', 'Lake']
+Parts of Speech: ['PROPN', 'PROPN']

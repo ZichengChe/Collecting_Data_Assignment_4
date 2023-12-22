@@ -1,0 +1,7 @@
+Title: Blackouts
+Author: Justin Torres (Goodreads Author)
+Avg Rating: 3.99 avg rating — 1,543 ratings
+Genres: 
+Tokens: ['Blackouts']
+Lemmas: ['blackout']
+Parts of Speech: ['NOUN']

@@ -1,0 +1,7 @@
+Title: Cobalt Red: How the Blood of the Congo Powers Our Lives
+Author: Siddharth Kara
+Avg Rating: 4.38 avg rating — 3,920 ratings
+Genres: 
+Tokens: ['Cobalt', 'Red', ':', 'How', 'the', 'Blood', 'of', 'the', 'Congo', 'Powers', 'Our', 'Lives']
+Lemmas: ['Cobalt', 'Red', ':', 'how', 'the', 'blood', 'of', 'the', 'Congo', 'Powers', 'our', 'life']
+Parts of Speech: ['PROPN', 'PROPN', 'PUNCT', 'SCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'PROPN', 'PROPN', 'PRON', 'NOUN']
